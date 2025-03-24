@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "51cb6cdb-50e0-925e-3a09-e5aab3668059",
+    "Name": "EjadPackage",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1742739969000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/EjadPackage.csproj",
+    "DependsOn": [
+      {
+        "UId": "3f299622-2079-4a62-ba18-6d32c1d0d6af",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterprise_Marketing_ServiceEnt"
+      }
+    ]
+  }
+}

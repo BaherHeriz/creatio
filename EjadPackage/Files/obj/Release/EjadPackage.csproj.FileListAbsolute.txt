@@ -1,0 +1,9 @@
+F:\Work\Ejad\Ejad\Ejad\Creatio\FullVersion\8.1.4.2938_SMSPost\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\EjadPackage\Files\Bin\EjadPackage.dll
+F:\Work\Ejad\Ejad\Ejad\Creatio\FullVersion\8.1.4.2938_SMSPost\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\EjadPackage\Files\Bin\EjadPackage.pdb
+F:\Work\Ejad\Ejad\Ejad\Creatio\FullVersion\8.1.4.2938_SMSPost\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\EjadPackage\Files\obj\Release\EjadPackage.csproj.AssemblyReference.cache
+F:\Work\Ejad\Ejad\Ejad\Creatio\FullVersion\8.1.4.2938_SMSPost\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\EjadPackage\Files\obj\Release\EjadPackage.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\Ejad\Ejad\Ejad\Creatio\FullVersion\8.1.4.2938_SMSPost\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\EjadPackage\Files\obj\Release\EjadPackage.AssemblyInfoInputs.cache
+F:\Work\Ejad\Ejad\Ejad\Creatio\FullVersion\8.1.4.2938_SMSPost\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\EjadPackage\Files\obj\Release\EjadPackage.AssemblyInfo.cs
+F:\Work\Ejad\Ejad\Ejad\Creatio\FullVersion\8.1.4.2938_SMSPost\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\EjadPackage\Files\obj\Release\EjadPackage.csproj.CoreCompileInputs.cache
+F:\Work\Ejad\Ejad\Ejad\Creatio\FullVersion\8.1.4.2938_SMSPost\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\EjadPackage\Files\obj\Release\EjadPackage.dll
+F:\Work\Ejad\Ejad\Ejad\Creatio\FullVersion\8.1.4.2938_SMSPost\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\EjadPackage\Files\obj\Release\EjadPackage.pdb
